@@ -2,7 +2,7 @@
 This repository includes the learning materials for a training course titled "Introduction to Artificial Intelligence".
 
 # Course details
-Author: Dr Ibrahim Alsaggaf [![Google-Scholar](https://img.shields.io)](https://scholar.google.com/citations?user=-FI4fY0AAAAJ&hl=en)
+Author: Dr Ibrahim Alsaggaf [![Google Scholar](https://img.shields.io)](https://scholar.google.com/citations?user=-FI4fY0AAAAJ&hl=en)
 
 
 Total hours: 24 hours
