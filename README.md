@@ -2,8 +2,7 @@
 This repository includes the learning materials for a training course titled "Introduction to Artificial Intelligence".
 
 # Course details
-Author: Dr Ibrahim Alsaggaf [[Google Scholar]](https://scholar.google.com/citations?user=-FI4fY0AAAAJ&hl=en)
-
+Author: Dr Ibrahim Alsaggaf [[Google Scholar]](https://scholar.google.com/citations?user=-FI4fY0AAAAJ&hl=en) [[CV]](https://github.com/ibrahimsaggaf/Introduction-to-Artificial-Intelligence/blob/main/Author_CV/CV_Alsaggaf.pdf)
 
 Total hours: 24 hours
 
@@ -15,6 +14,16 @@ Total hours: 24 hours
 - Analyse time series data
 - Explore Computer Vision applications
 - Implement Natural Language Processing (NLP) techniques
+
+## Topics
+1. AI: An overview
+2. Data preprocessing
+3. Machine Learning
+4. Model evaluation
+5. Time series analysis
+6. Computer vision
+7. Natural language processing 1
+8. Natural language processing 2
 
 # Licence Disclaimer
 This repository is distributed under the terms of the GNU General Public Licence, Version 3, dated 29 June 2007. It is intended to promote freedom to use, study, modify, and share the content herein, in accordance with the principles of free and open-source documentation. By accessing, reproducing, or modifying this repository, you agree to comply with the conditions set forth in the GNU GPL v3. A full copy of the licence is available at https://www.gnu.org/licenses/gpl-3.0.html.
