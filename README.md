@@ -9,7 +9,7 @@ Total hours: 24 hours
 ## Learning objectives
 - Understand the foundations of Artificial Intelligence
 - Apply core Machine Learning techniques
-- Perform data processing and features selection
+- Perform data preprocessing and feature selection
 - Evaluate AI models
 - Analyse time series data
 - Explore Computer Vision applications
